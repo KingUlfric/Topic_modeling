@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clean-athlete-403915",
+  "private_key_id": "54b311f535e559a640861b5a2373d12863984302",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFyIw56ZL9dyAI\nb+t5nC8sOfyeB3DEoVoMIg1oNIdmVvYU8UG13Zquum+QhulF9kkeYCHDvTqs/79k\nBotaMiHyKrVv9/AR1IlWBI3+PLnaGyQTU96qTAcapmIj8MeqCtvacmac7QcBbK5x\nWHSNBJgoGxbJ1WqaS9kX995xwWI025lf5M9F20oHzMfsUnQVRlHhbHbY765ss7Du\nQGprlitvir4oAcXExWGHJ9nKNSqde+YIkKBGUNLiUGzcNtuLQfB5Bo398GwMVsc+\nOG5jtl1ngRt/9aftdWmHsAW+2uGAnY+RsyKDXahbdFqHpjtLaQedGvjsTTH6sVKi\nHRNtRfJvAgMBAAECggEAH+9O7lDlCiZbFpGqVe3z00fKSWKOgOlD8V6UMfBSsSG3\nGnrj7xoIzk/4ZeqAAusOiP2Lph/JOBgT+Udx5mPe2vZYv8Cq/i4GPiHTzX+qSz8D\noa1H8CZWJVBFMLlsJmwaGJj33DxiBlxb2Z2nNVfPEPa4GhRqtzQqVEuSRWWCAQzv\nlV0luktBZao+EFsoG4YflRACKf7YcN6ynyGj17FLPfdHd0RlUG/qk+nQf6/UUGk5\nULBKbHnZBVfiYp89LjH+DU6tq3svXa0aohb/kYbPVd9Zrhpshx88Fh3OR8FDn/qK\nmuifoxRDBmWV7n3oeDUWCx5JX9NPy5QmFo3plNGoHQKBgQD+vjoPufUdsFyyo88o\n1mU0c0odA2C8ZK29gu4fOZSRHPXVKEO5VBy0CiFEFkFKoa2MqIwN+56HCMTmEs3W\nKLqBjImsgPYOHf0Hvk1rOhA+3n8RLJPC4If7tkUI5d9F3Z/lFqfLtWrbBu/8av1l\nacGMFCXHJFRQTA+rfvV5eC/RSwKBgQDGwl+h89iiCA4dTwgK5cPcGBiB1x1RvD3A\nN1JVrcFTP0BeDo41zhizRDRToSGN4HjEXTNu9uQ1lpENj/+n4gCxFjfaNNoS4aqa\nioTolCOFGTfrabi43bGJH23PAGMdMXfQvfy5y37QJx0BdQrS3uk8SHT2eYtCQsl/\nbbtXVHWQ7QKBgQCxCLA/B6Ox+0Ognji0j7KLred+nD9ZDbq0bk5gAtsdsfuiJDZU\nkIDWGggeUj0TyaJbkzKp8QitnUmA/uZvg6SBrZJsAL9+9hZHkFgrQZHSrzutSsZx\ncyrtojD9ywrMegXJ5mG8LxrQllSnng71sHZijAnpCHVTzFhDfZrIzN6mWwKBgBvO\nu/R7mjZpLBhbo0NrC/DyChO4VejGjlkjJEjKa37LHaVLIghTEk+aXjvJElm4Kw1G\nANkof5sjup2MJPeG/hPIiP3lYRE9M1I1yQyFFUcc1R8Bho+OrLUDiahpZHSEJEA3\nJHGWD+LtZfh7OI1yFG2TsZF+RcZ6c5h5cLlyHpStAoGBANA3zimroQCgdvHQDtLH\n/R+UPWYg4e5CPJLjD/UP2wVlUksMMQH9688KLmtBQSBaIlhTQe3GHrlMlaIV5cS+\n7sWenZIaStMxXfP09nwSWGR6zC5q9SPEThodxQqpuKvekHF2dQKssorAenWoAi8s\nN7Ykqh1GZl6ZJmgilE7UK0ty\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-translation-user@clean-athlete-403915.iam.gserviceaccount.com",
+  "client_id": "107689254929794966836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-translation-user%40clean-athlete-403915.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

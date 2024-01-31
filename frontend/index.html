@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Review Analysis Tool</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Review Analysis Tool</h1>
+        </header>
+
+        <section id="project-info">
+            <h2>About the Project</h2>
+            <p>Welcome to our Review Analysis Tool. This tool uses NLP techniques to analyze user reviews and extract key topics.</p>
+        </section>
+
+        <main>
+            <textarea id="review-text" placeholder="Enter a review here to find out its main theme..."></textarea>
+            <button onclick="analyzeReview()">Analyze Theme</button>
+            <section id="result-section">
+                <h2>Analysis Results</h2>
+                <div id="result">The main topic will appear here.</div>
+            </section>
+
+        </main>
+
+        <footer>
+            <h2>Team Members</h2>
+            <p>Kateryna Liaposhchenko, Ilia Frolov, Oleksandr Pilipas, Michal Shulha</p>
+        </footer>
+
+    </div>
+</body>
+</html>
